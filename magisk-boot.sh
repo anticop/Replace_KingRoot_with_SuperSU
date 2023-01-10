@@ -1,8 +1,9 @@
 #!/system/bin/sh
 #
 # This script is based on magisk-boot.sh from
-# https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/
+# httpsTap on a clip to paste it in the text box.://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/
 # by diplomatic @ XDA dated Mar 31, 2020
+
 #
 # This script sets up bootless root with Magisk v22+ on Android devices.
 # Must be run as root for executing this script and we have to do this on every boot.
